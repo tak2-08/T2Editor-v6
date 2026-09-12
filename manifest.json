@@ -1,0 +1,29 @@
+[
+ {
+  "id": "ver_98d7b12adde9",
+  "version": "6.0.0",
+  "title": "T2Editor 6.0.0",
+  "release_date": "2025.12.09",
+  "file_name": "6.0.0.zip",
+  "size_bytes": 1259363,
+  "sha256": "39123516e8bb25f6b36c2ed597be68767ce00200f578af0b48293dad3ad8b81a",
+  "download_url": "https://dsclub.kr/api/t2editor/version/index.php?action=download&version=6.0.0&file=0",
+  "license": "2.0.0",
+  "license_source": "readme.txt",
+  "has_readme": true,
+  "readme_sha256": "185cb8d9ba9b390c4059b731870d5fa9364e79fa2cce44fec938fbd3662b3e13",
+  "major": 6,
+  "root_prefix": "t2editor/",
+  "readme_ver": "6.0.0",
+  "readme_date": "2025.12.09",
+  "readme_date_raw": "2025.12.09",
+  "release_date_iso": "2025-12-09",
+  "readme_date_iso": "2025-12-09",
+  "readme_date_unparsed": false,
+  "date_mismatch": false,
+  "ver_mismatch": false,
+  "series": 6,
+  "status": "EOL",
+  "eol": true
+ }
+]
